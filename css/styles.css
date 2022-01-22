@@ -277,15 +277,15 @@ body {
 .projects {
   display: flex;
   flex-wrap: wrap;
-  margin-right: -30px;
+  margin-left: -30px;
+  margin-bottom: -30px;
 }
 .projects-list {
   width: calc((100% / 3) - 30px);
   height: 404px;
-  margin-right: 30px;
+  margin-left: 30px;
   margin-bottom: 30px;
 }
-
 .projects-card {
   padding: 20px 24px;
   border-left: 1px solid rgba(238, 238, 238, 1);
